@@ -29,7 +29,6 @@
   "dependencies": {
     "babel-runtime": "^6.11.6",
     "exec-promise": "^0.6.1",
-    "github": "^5.1.0",
     "lodash": "^4.16.4",
     "promise-toolbox": "^0.7.0"
   },
