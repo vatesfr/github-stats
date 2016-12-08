@@ -27,7 +27,7 @@
     "node": ">=4"
   },
   "dependencies": {
-    "babel-runtime": "^6.11.6",
+    "babel-runtime": "^6.20.0",
     "exec-promise": "^0.6.1",
     "lodash": "^4.16.4",
     "promise-toolbox": "^0.7.0"
